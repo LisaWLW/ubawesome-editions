@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "status": "draft",
+  "edition_date": "2026-11-15",
+  "_note": "PARTIAL DRAFT. Not for publishing. crypto and meditation (podcast) slots still need picks; WebFetch permissions were blocked during the scheduled run on 14 Nov.",
+  "discoveries": [
+    {
+      "category": "crypto",
+      "_todo": "Needs a verified, free crypto education pick. Candidates not yet opened: RBA cryptocurrencies explainer, Scamwatch investment scams, FTC crypto scams guide."
+    },
+    {
+      "category": "world",
+      "headline": "What to know about this year's UN climate talks",
+      "why": "Casey Crownhart's clear guide to COP31, cohosted by Turkey and Australia and running until 20 November. She covers the money (rich nations provided $136.7 billion in climate finance in 2024, per the OECD) and a new pledge to lift electricity from about 23% of global energy to 35% by 2035. The one read that makes the week's summit headlines make sense.",
+      "source": "MIT Technology Review",
+      "meta_credit": "MIT Technology Review · Casey Crownhart",
+      "format": "Explainer",
+      "duration": "~5 min",
+      "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "published_date": "11 Nov 2026",
+      "credit": null,
+      "cta": "Get the briefing"
+    },
+    {
+      "category": "nature",
+      "headline": "A ghostly sawfish wins Australia's top nature photo prize",
+      "why": "Matt Deakin's drone image 'Ethereal Encounter' shows a critically endangered green sawfish gliding beside a turtle off the Pilbara. It beat 2129 entries from 501 photographers in 17 countries to become the 2026 Australian Geographic Nature Photographer of the Year. In Sydney? The free exhibition of 100 finalists is at the Australian Museum until 14 February 2027.",
+      "source": "WE ARE.SA",
+      "meta_credit": "WE ARE.SA · South Australian Museum",
+      "format": "Nature photography",
+      "duration": "~3 min",
+      "url": "https://www.weare.sa.gov.au/news/ghostly-image-of-endangered-sawfish-wins-prestigious-prize",
+      "published_date": "28 Aug 2026",
+      "credit": "Photograph: Matt Deakin, 'Ethereal Encounter', 2026 Australian Geographic Nature Photographer of the Year",
+      "cta": "See the sawfish"
+    },
+    {
+      "category": "meditation",
+      "_todo": "Needs a verified podcast with listen_minutes (not Jack Kornfield, Tara Brach). Candidate not yet opened: Plum Village 'The Way Out Is In' Episode #118 with Benedict Cumberbatch (9 Nov 2026), https://plumvillage.org/podcast/in-conversation-with-benedict-cumberbatch-episode-118"
+    },
+    {
+      "category": "ideas",
+      "headline": "The most beautiful science of the year",
+      "why": "The Nautilus editors gather their favourite stories from 2025: hundreds of fireflies blinking in unison on a spring night, a saturation diver who survived what should have been his own death, and a writer who shared her home with 25 ex-laboratory mice. A Sunday browse that leaves you a little more amazed by the world.",
+      "source": "Nautilus",
+      "meta_credit": "Nautilus · Nautilus Editors",
+      "format": "Essay roundup",
+      "duration": "~10 min",
+      "url": "https://nautil.us/the-most-beautiful-science-of-the-year-4-1256491",
+      "published_date": "24 Dec 2025",
+      "credit": null,
+      "cta": "Start browsing"
+    },
+    {
+      "category": "creator",
+      "headline": "Datsun Tran burns a forest into paper",
+      "why": "South Australian artist Datsun Tran won the $80,000 John Glover Art Prize with 'The giants are falling', an image burned into paper with joss sticks as a tribute to Tasmania's Mountain Ash. Chosen from 42 finalists. Champion him: look him up, share his work, tell one friend.",
+      "source": "Art Almanac",
+      "meta_credit": "Art Almanac · John Glover Art Prize",
+      "format": "Art prize",
+      "duration": "~1 min",
+      "url": "https://www.art-almanac.com.au/datsun-tran-wins-2026-glover-prize/",
+      "published_date": "11 Mar 2026",
+      "credit": "Courtesy the artist and The John Glover Art Prize",
+      "cta": "See the work"
+    },
+    {
+      "category": "ayurveda",
+      "headline": "Two people the same age can be ageing very differently",
+      "why": "King's College London researchers followed 335 TwinsUK volunteers for eight years, tracking around 16,000 genes and hundreds of metabolites in their blood. Published in Science, it found healthy ageing follows more varied paths than we thought, and even linked 'forever chemicals' to changing molecular profiles. General information, not medical advice.",
+      "source": "King's College London",
+      "meta_credit": "King's College London · Dr Julia El-Sayed Moustafa and Prof Kerrin Small",
+      "format": "Research news",
+      "duration": "~4 min",
+      "url": "https://www.kcl.ac.uk/news/healthy-ageing-shaped-by-more-varied-biology-than-previously-thought",
+      "published_date": "3 Sep 2026",
+      "credit": null,
+      "cta": "Read the findings"
+    },
+    {
+      "category": "yoga",
+      "headline": "Ten-minute full-body stretch for complete beginners",
+      "why": "Yoga teacher David Rennie leads a gentle 'exercise snack' of breath, postures and a little meditation, made for complete beginners. All you need is a mat, plus a cushion or a chair if the floor is tricky. Free to watch, no sign-up.",
+      "source": "Royal Voluntary Service · Virtual Village Hall",
+      "meta_credit": "Virtual Village Hall · David Rennie",
+      "format": "Video practice",
+      "duration": "10 min",
+      "url": "https://virtualvillagehall.royalvoluntaryservice.org.uk/activity-listing/10-minute-yoga-full-body-stretch-for-beginners-gmw-26",
+      "published_date": "22 Jan 2026",
+      "credit": null,
+      "cta": "Roll out the mat"
+    },
+    {
+      "category": "strength",
+      "headline": "Strength training: get stronger, leaner, healthier",
+      "why": "Mayo Clinic's plain guide to starting out: two or three sessions a week of about 20 to 30 minutes can make muscles noticeably stronger. Pick a weight that tires you by 12 to 15 reps and rest a full day between working the same muscles. A simple weekly ritual for the long run.",
+      "source": "Mayo Clinic",
+      "meta_credit": "Mayo Clinic Staff",
+      "format": "Guide",
+      "duration": "~7 min",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/strength-training/art-20046670",
+      "published_date": "5 Jun 2026",
+      "credit": null,
+      "cta": "Start lifting"
+    }
+  ]
+}
