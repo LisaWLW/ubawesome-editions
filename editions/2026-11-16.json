@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "status": "published",
+  "edition_date": "2026-11-16",
+  "discoveries": [
+    {
+      "category": "crypto",
+      "headline": "Before you buy crypto, read this",
+      "why": "Moneysmart, the government's free money guide, sets out the basics plainly: crypto is very volatile, it isn't legal tender in Australia, and many platforms aren't licensed, so you may not be protected if one fails or is hacked. The real story of Rhett, who lost $97,000 to a fake endorsement, shows how scams work. Education, not advice.",
+      "source": "Moneysmart",
+      "meta_credit": "Moneysmart · ASIC",
+      "format": "Guide",
+      "duration": "~6 min",
+      "url": "https://moneysmart.gov.au/investment-warnings/crypto-assets",
+      "published_date": "Evergreen guide",
+      "credit": null,
+      "cta": "Read the guide"
+    },
+    {
+      "category": "world",
+      "headline": "If Not Now: an anthem for a reef",
+      "why": "More than 20 Australian artists, with Jimmy Barnes and King Gizzard & The Lizard Wizard out front and John Butler, Montaigne, Alex Lahey, Urthboy, DOBBY and Fred Leone among them, have reimagined King Gizzard's Environmental Music Prize-winning song for the Save Scott Reef campaign. The campaign, from Greenpeace Australia Pacific, Green Music Australia and p(doom) Records, says Woodside plans up to 57 wells under and around the reef off Western Australia, and half a million Australians have asked the government to stop it. It's out now on all the usual music apps; the story is here.",
+      "source": "Greenpeace Australia Pacific",
+      "meta_credit": "Greenpeace Australia Pacific · Green Music Australia · p(doom) Records · art by Jonathan Zawada",
+      "format": "Song & story",
+      "duration": "~4 min read, plus the song",
+      "url": "https://www.greenpeace.org.au/news/jimmy-barnes-king-gizz-lead-aussie-music-supergroup-on-new-release-to-save-scott-reef/",
+      "published_date": "9 Nov 2026",
+      "credit": null,
+      "cta": "Read and listen"
+    },
+    {
+      "category": "nature",
+      "headline": "Landscapes with nothing faked",
+      "why": "The Natural Landscape Photography Awards check every finalist's RAW file, so what you see is what was really there. Lukas Furlan was named Photographer of the Year for a set that moves from tiny ice details to mountain vistas, and Abraham Saikley took Photograph of the Year for a jagged mountain range. Nearly 12,000 entries from 52 countries; a slow scroll is a good start to a Monday.",
+      "source": "PetaPixel",
+      "meta_credit": "PetaPixel · Natural Landscape Photography Awards",
+      "format": "Photography",
+      "duration": "~5 min",
+      "url": "https://petapixel.com/2026/09/23/natural-landscape-photography-awards-shows-nature-as-it-truly-is/",
+      "published_date": "23 Sep 2026",
+      "credit": "© Lukas Furlan (Photographer of the Year) and Abraham Saikley (Photograph of the Year), Natural Landscape Photography Awards; each photographer credited in the captions",
+      "cta": "See the winners"
+    },
+    {
+      "category": "meditation",
+      "headline": "The Compassionate Mind, in 90 seconds",
+      "why": "This week's quote comes from the Dalai Lama's message on compassion. In this short clip, recorded in New Delhi in 2010, he explains why a compassionate mind is the root of inner peace, and how fear, anger and distrust grow when we only think of ourselves. Watch it, then carry one kind act into your week.",
+      "source": "The Office of His Holiness the Dalai Lama",
+      "meta_credit": "dalailama.com · His Holiness the Dalai Lama",
+      "format": "Video",
+      "duration": "1 min 29 s",
+      "url": "https://www.dalailama.com/videos/the-compassionate-mind",
+      "published_date": "Recorded 19 Nov 2010",
+      "credit": null,
+      "cta": "Watch the clip",
+      "quote": {
+        "text": "The more we care for the happiness of others, the greater our own sense of well-being becomes.",
+        "by": "The Dalai Lama",
+        "source_url": "https://dalailama.com/messages/compassion-and-human-values/compassion"
+      }
+    },
+    {
+      "category": "ideas",
+      "headline": "Jay Shetty: stop waiting to figure it out",
+      "why": "Jay Shetty's live show played Sydney on Saturday and reaches Brisbane tonight, built around four decisions: how you see yourself, how you make money, who you love and how you serve. This episode of On Purpose is a good way in: purpose isn't found in one flash, it's built through curiosity and small steps, and he gives you something to try in the next 48 hours. Perfect for the commute.",
+      "source": "On Purpose with Jay Shetty",
+      "meta_credit": "On Purpose with Jay Shetty · Rolling Stone Australia (tour dates)",
+      "format": "Podcast",
+      "duration": "24 min",
+      "listen_minutes": 25,
+      "url": "https://omny.fm/shows/on-purpose-with/stop-waiting-to-figure-it-out-do-this-in-the-next-48-hours-to-finally-take-the-first-step-in-finding-your-purpose",
+      "published_date": "Jun 2026",
+      "credit": null,
+      "cta": "Listen"
+    },
+    {
+      "category": "creator",
+      "headline": "The Bangalow Show turns 125",
+      "why": "The first show was held in March 1897 on Robert Campbell's land, with about 300 people on day one and 800 on day two. It was cancelled in 1917 and 1947 and twice for COVID, and it still runs on about 25 committee members and more than 100 volunteers, with the Written Word and Art sections the pavilion's favourites. Congratulations to Dave Copeland, winner of this year's Bush Poet competition, and to runner-up Lisa Wade, UBUNBOUND's founder, whose playful poem is built on the letters of phone keys 1, 2 and 5, plus 'bush'. Read the full poem on the reader site.",
+      "source": "North Coast Times",
+      "meta_credit": "North Coast Times · Penelope Shaw · Bangalow Show Society",
+      "format": "Story",
+      "duration": "~4 min",
+      "url": "https://nctimes.com.au/2026/10/24/bangalow-show-celebrates-125-years-of-country-tradition/",
+      "published_date": "24 Oct 2026",
+      "credit": null,
+      "cta": "Read the story",
+      "quote": {
+        "text": "Still, sweet / Home / Yes everlasting, / Years - Happy, home - US",
+        "by": "Lisa Wade, runner-up, Bush Poet competition",
+        "source_url": "https://reader.ubunbound.com/poems/beautiful-bangalow-bush"
+      }
+    },
+    {
+      "category": "ayurveda",
+      "headline": "Ayurveda's guide to every season",
+      "why": "Ayurvedic practitioner Kathryn Templeton explains how the three doshas map onto the year: vata from late autumn into early winter, kapha from deep winter into spring, pitta from late spring into early autumn. In Sydney we're heading into pitta season, so look for her cooling rituals, like sheetali breathing. General information, not medical advice.",
+      "source": "Yoga International",
+      "meta_credit": "Yoga International · Kathryn Templeton",
+      "format": "Article",
+      "duration": "5 min",
+      "url": "https://yogainternational.com/article/view/ayurvedas-guide-to-health-in-every-season",
+      "published_date": "Evergreen article",
+      "credit": null,
+      "cta": "Read the guide"
+    },
+    {
+      "category": "yoga",
+      "headline": "A gentle morning practice, bed or mat",
+      "why": "Trauma-informed teacher Kassandra Mollé talks you through 17 minutes of cyclic sighing, cat-cow, sphinx, half frog and soft spinal twists, ending in rest. It's audio only, so close your eyes and follow her voice. A kind way to begin the week.",
+      "source": "The Calm Lab Podcast",
+      "meta_credit": "The Calm Lab Podcast · Kassandra Mollé",
+      "format": "Podcast (guided practice)",
+      "duration": "17 min",
+      "listen_minutes": 17,
+      "url": "https://thecalmlab.buzzsprout.com/2518406/episodes/18210440-wake-up-energized-gentle-yoga-practice",
+      "published_date": "19 Nov 2025",
+      "credit": null,
+      "cta": "Press play"
+    },
+    {
+      "category": "strength",
+      "headline": "How little strength training is enough?",
+      "why": "McMaster kinesiology researchers explain that one weekly session with lighter weights, taken to fatigue at around 20 to 25 reps, builds both muscle and strength. Their best line: the threshold that matters most isn't between good and excellent, it's between zero and one. Start this week.",
+      "source": "McMaster University",
+      "meta_credit": "McMaster University · Tom Janssen & Matthew Lees (via The Conversation)",
+      "format": "Analysis",
+      "duration": "~6 min",
+      "url": "https://news.mcmaster.ca/analysis-why-strength-training-matters-at-any-age/",
+      "published_date": "6 Jan 2026",
+      "credit": null,
+      "cta": "Read the analysis"
+    }
+  ]
+}
