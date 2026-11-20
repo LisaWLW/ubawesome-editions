@@ -16,7 +16,7 @@ No file for the day means no email that day; nothing half-finished is ever sent.
 - Nine categories, one discovery each: crypto, world, nature, meditation, ideas, creator, ayurveda, yoga, strength.
 - At least one podcast, with `listen_minutes` (shown with the 3× listening time).
 - Every link is HTTPS and goes straight to the experience; nature picks credit the photographer.
-- The meditation slot (Prepare for take-off) is about reducing stress, from Lisa's and Kevin's practice: Mahayana Buddhism as taught by the Dalai Lama, and Jon Kabat-Zinn's mindfulness. No health claims beyond general information.
+- The meditation slot is UBHAPPY: prepare for take-off. It is about reducing stress and growing happiness, from Lisa's and Kevin's practice: Mahayana Buddhism as taught by the Dalai Lama, Jon Kabat-Zinn's mindfulness, and credible happiness science. No health claims beyond general information, and no products.
 - On Mondays, the meditation pick carries a verified Dalai Lama quote of the week (`quote.text`, `quote.by`, `quote.source_url`).
 - No repeats: no URL or source from the last 7 editions, and no story, subject, award, event or image from the last 14, even from a different outlet. No photo-competition gallery in the nature slot two days running.
 - Say rituals, and never contrast them with habits.
