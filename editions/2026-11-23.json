@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "status": "published",
+  "edition_date": "2026-11-23",
+  "discoveries": [
+    {
+      "category": "crypto",
+      "headline": "Why bitcoin fell below US$60,000",
+      "why": "Bitcoin dropped to nearly US$57,650, its lowest level since around 1 July, as a wider 'risk-off' selloff hit shares and even gold. Forbes contributor Charles Lloyd Bovaird II shows how crypto moved with the Nasdaq, which closed down 5.5%, and reports about US$580 million leaving US spot bitcoin ETFs in a single day. A clear look at why crypto rarely moves on its own. Education, not advice.",
+      "source": "Forbes",
+      "meta_credit": "Forbes Digital Assets · Charles Lloyd Bovaird II, Senior Contributor",
+      "format": "News analysis",
+      "duration": "~4 min",
+      "url": "https://www.forbes.com/sites/digital-assets/2026/11/20/bitcoin-plunges-below-60000-as-risk-off-trading-fuels-widespread-losses/",
+      "published_date": "20 Nov 2026",
+      "credit": null,
+      "cta": "Read the analysis"
+    },
+    {
+      "category": "world",
+      "headline": "A world court finds genocide against the Rohingya",
+      "why": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya, in a case brought by The Gambia. It is the first time the UN's highest court has found a country responsible for genocide, and the judges split 9 to 6. A short, clear report on a ruling that will shape international law for years.",
+      "source": "Associated Press via ABC News (US)",
+      "meta_credit": "Associated Press · Mike Corder and Molly Quell",
+      "format": "News",
+      "duration": "~4 min",
+      "url": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244",
+      "published_date": "19 Nov 2026",
+      "credit": null,
+      "cta": "Read the report"
+    },
+    {
+      "category": "nature",
+      "headline": "The bogong moths are back, and they need us",
+      "why": "Millions of bogong moths have turned up in our cities this spring, from Perth to southern Queensland, on their way to cool caves in the Australian Alps. Zoologist Kate Umbers explains why they're still endangered, and how you can help scientists map their mysterious routes by logging sightings on iNaturalist or joining Bogong Watch. A three-minute read that turns the moth at your porch light into a small wonder.",
+      "source": "Western Sydney University",
+      "meta_credit": "Western Sydney University · A/Prof Kate Umbers (first published in The Conversation)",
+      "format": "Nature story",
+      "duration": "~3 min",
+      "url": "https://www.westernsydney.edu.au/news-centre/stories/2026/opinion-millions-of-bogong-moths-are-blanketing-our-cities-and-they-are-still-endangered",
+      "published_date": "4 Nov 2026",
+      "credit": "Words: Associate Professor Kate Umbers, Western Sydney University",
+      "cta": "Read the story"
+    },
+    {
+      "category": "meditation",
+      "headline": "Breathe out the Monday rush",
+      "why": "Stanford psychiatrist David Spiegel guides you through cyclic sighing: two inhales through the nose, then a long, slow exhale through the mouth, a few times over. He explains that the calm comes mostly from that long exhale, and host Dacher Keltner shares why it may settle the nervous system. Nine minutes to lower the stress before the week takes off, paired with this week's words from the Dalai Lama.",
+      "source": "Greater Good Science Center, UC Berkeley",
+      "meta_credit": "The Science of Happiness · Happiness Break · Dr David Spiegel with Dacher Keltner",
+      "format": "Podcast (guided practice)",
+      "duration": "9 min",
+      "listen_minutes": 9,
+      "url": "https://greatergood.berkeley.edu/podcasts/item/breathe_away_anxiety_david_spiegel_cyclic_sighing_breathing_technique",
+      "published_date": "3 Oct 2024",
+      "credit": null,
+      "cta": "Listen",
+      "quote": {
+        "text": "Genuine happiness and satisfaction must come from within.",
+        "by": "The Dalai Lama",
+        "source_url": "https://www.dalailama.com/messages/compassion-and-human-values/compassion-as-the-source-of-happiness"
+      }
+    },
+    {
+      "category": "ideas",
+      "headline": "From AI slop to industrial-scale deception",
+      "why": "In this year's AN Smith Lecture, journalist Craig Silverman, co-founder of Indicator and editor of the Verification Handbook, traces how online manipulation grew from a cottage industry into an industry, from fake influencers selling products to fake election ads. Natasha Mitchell presents. A sharp hour for the commute that will change how you scroll.",
+      "source": "ABC Radio National · Big Ideas",
+      "meta_credit": "Big Ideas · Natasha Mitchell · Craig Silverman, 2026 AN Smith Lecture",
+      "format": "Podcast",
+      "duration": "58 min",
+      "listen_minutes": 58,
+      "url": "https://www.abc.net.au/listen/programs/bigideas/from-ai-slop-to-industrialised-deception-craig-silverman/107314336",
+      "published_date": "16 Nov 2026",
+      "credit": null,
+      "cta": "Listen"
+    },
+    {
+      "category": "creator",
+      "headline": "Archie Moore and Daniel Boyd, side by side",
+      "why": "Stories From A Small Country Town pairs Kamilaroi/Bigambul artist Archie Moore with Daniel Boyd at Ngununggula in the Southern Highlands, a show curator Djon Mundine OAM first imagined almost two decades ago. Moore's new work, Remnants of My Father, builds a portrait from objects and papers, while Boyd has made a window installation in his signature dots. On until 14 February 2027, and worth a road trip.",
+      "source": "National Indigenous Times",
+      "meta_credit": "National Indigenous Times · Phoebe Blogg",
+      "format": "Exhibition story",
+      "duration": "~4 min",
+      "url": "https://nit.com.au/05-11-2026/27347/archie-moore-and-daniel-boyds-stories-from-a-small-country-town-opens-at-ngununggula",
+      "published_date": "5 Nov 2026",
+      "credit": null,
+      "cta": "Read the story"
+    },
+    {
+      "category": "ayurveda",
+      "headline": "Tongue scraping, the oldest morning ritual",
+      "why": "Ayurveda suggests starting the day by gently scraping the tongue, a practice described in the classical Charaka Samhita with a curved, non-sharp metal scraper. This guide walks you through it: back to front, seven to 14 strokes, and a quick look at your tongue as a daily check-in. A simple ritual that may also freshen your sense of taste. General information, not medical advice.",
+      "source": "Chopra",
+      "meta_credit": "Chopra",
+      "format": "Guide",
+      "duration": "~6 min",
+      "url": "https://chopra.com/articles/the-benefits-of-tongue-scraping",
+      "published_date": "Undated (evergreen)",
+      "credit": null,
+      "cta": "Read the guide"
+    },
+    {
+      "category": "yoga",
+      "headline": "Yoga at your desk, office or home",
+      "why": "Queensland Health shows how to bring yoga into the working day with no mat at all: ten slow breaths, gentle head nods, a seated twist, wrist stretches and a desk downward dog held for ten seconds. Short demo videos show each move. Perfect for a Monday at the laptop, and an easy ritual to repeat between meetings.",
+      "source": "Queensland Health",
+      "meta_credit": "Queensland Health",
+      "format": "Guide with videos",
+      "duration": "~7 min",
+      "url": "https://health.qld.gov.au/news-events/news/yoga-at-work-office-or-wfh-its-a-thing",
+      "published_date": "Undated (evergreen)",
+      "credit": null,
+      "cta": "Try the moves"
+    },
+    {
+      "category": "strength",
+      "headline": "Lift slow, stand up fast",
+      "why": "Northumbria University's Liam Pearson-Noseworthy explains power training: lowering a weight slowly, then lifting it as fast as you safely can. He shares research showing leg power matters for staying mobile, and a simple way to start: pick a weight you could lift about 15 times, stop at about eight, and for chair squats sit down slowly and stand up quickly. A practical read for keeping strong and independent.",
+      "source": "The New Daily",
+      "meta_credit": "The New Daily · Liam T. Pearson-Noseworthy, Northumbria University (republished from The Conversation)",
+      "format": "Article",
+      "duration": "~5 min",
+      "url": "https://www.thenewdaily.com.au/life/health/2026/11/09/ageing-weights-exercise",
+      "published_date": "9 Nov 2026",
+      "credit": null,
+      "cta": "Read the tips"
+    }
+  ]
+}
