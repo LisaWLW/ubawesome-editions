@@ -25,6 +25,15 @@ for x in items:
   elif len(str(q['text']).split())>60:errors.append(f'{c}: keep quotes under 60 words')
  if 'podcast' in str(x.get('format','')).lower() and not isinstance(x.get('listen_minutes'),int):errors.append(f'{c}: podcasts need listen_minutes (a whole number)')
 if not any('podcast' in str(x.get('format','')).lower() for x in items):errors.append('At least one podcast each day, for listening on the go')
+# PhiBee's Top 9 on X (optional): post ids from reader.ubunbound.com/x/candidates/<date>, each with PhiBee's one-line note.
+xt=d.get('x_top')
+if xt is not None:
+ if not isinstance(xt,list) or len(xt)>9:errors.append('x_top: a list of at most 9 posts')
+ else:
+  ids=[str(p.get('id','')) if isinstance(p,dict) else '' for p in xt]
+  if any(not re.fullmatch(r'\d{1,25}',i) for i in ids):errors.append('x_top: every post needs its numeric id')
+  if len(set(ids))!=len(ids):errors.append('x_top: the same post twice')
+  if any(isinstance(p,dict) and len(str(p.get('note') or ''))>200 for p in xt):errors.append('x_top: notes are one line, 200 characters at most')
 if errors:
  print('EDITORIAL GATE FAILED:');print('\n'.join('- '+e for e in errors));sys.exit(2)
 print('EDITORIAL STRUCTURE PASSED. Still requires HUMAN/AI SOURCE VERIFICATION: URLs reachable, attribution, content accuracy, freshness, rights, and quality.')

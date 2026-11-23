@@ -22,3 +22,11 @@ No file for the day means no email that day; nothing half-finished is ever sent.
 - Say rituals, and never contrast them with habits.
 - Editorial picks only. Offers and affiliate links stay separate.
 - No bee emoji: the PhiBee logo is the only bee.
+
+## PhiBee's Top 9 on X (from 24 Nov 2026)
+
+- Each afternoon at about 5pm Sydney, the Reader reads the last day's posts from Lisa's X List, plus the latest post this week from each team account (Lisa @onegreenheartU, FABLERATION and RightUp). The candidates for tomorrow are at `https://reader.ubunbound.com/x/candidates/<date>`, team posts first, each with its post id.
+- The curation adds an optional `x_top` list to the edition: six picks from the list plus the three team posts, each `{"id": "<post id>", "note": "<PhiBee's one-line note>"}`. Notes say why the post is worth a look, in PhiBee's voice, never a price prediction or advice.
+- If the candidates page is empty (X not set up yet, or nothing read), leave `x_top` out. The email simply has no X section that day.
+- Team posts are always shown, marked "From our team", even if `x_top` leaves them out. Vary the six: no account twice, and nothing repeated from the last 7 days.
+- The email shows the nine as one line each and links to `reader.ubunbound.com/x/<date>`, where each post is shown the way X requires and readers vote for their favourite.
