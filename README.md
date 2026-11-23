@@ -21,6 +21,7 @@ No file for the day means no email that day; nothing half-finished is ever sent.
 - No repeats: no URL or source from the last 7 editions, and no story, subject, award, event or image from the last 14, even from a different outlet. No photo-competition gallery in the nature slot two days running.
 - Say rituals, and never contrast them with habits.
 - Editorial picks only. Offers and affiliate links stay separate.
+- The ayurveda slot draws from Banyan Botanicals' wellness blog (https://www.banyanbotanicals.com/blogs/wellness) first (Lisa, 23 Nov 2026), until UBUNBOUND's own Ayurvedic feed takes over. Pick one article, not the blog's front page. Write the "why" as general information, never a health claim or cure, and link the article itself, not a product. The no-repeats rule still applies; if every recent article is used, pick another credible Ayurvedic source.
 - No bee emoji: the PhiBee logo is the only bee.
 
 ## PhiBee's Top 9 on X (from 24 Nov 2026)
